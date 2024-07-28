@@ -130,6 +130,26 @@
       }
     },
     {
+      "displayName": "RRH Urgent Care",
+      "locationSet": {
+        "include": [
+          "us-ny.geojson"
+        ]
+      },
+      "matchNames": ["rrh urgent care"],
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Rochester Regional Health Urgent Care",
+        "brand:wikidata": "Q7353978",
+        "healthcare": "clinic",
+        "healthcare:speciality": "urgent",
+        "name": "Rochester Regional Health Urgent Care",
+        "operator": "Rochester Regional Health",
+        "operator:type": "private_non_profit",
+        "operator:wikidata": "Q7353978"
+      }
+    },
+    {
       "displayName": "Sentara Healthcare",
       "id": "sentara-b3ff53",
       "locationSet": {"include": ["us"]},
@@ -226,6 +246,26 @@
         "brand": "Vein Clinics of America",
         "brand:wikidata": "Q113712355",
         "healthcare": "clinic"
+      }
+    },
+    {
+      "displayName": "UR Medicine Urgent Care",
+      "locationSet": {
+        "include": [
+          "us-ny.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "clinic",
+        "brand": "UR Medicine Urgent Care",
+        "brand:wikidata": "Q59488288",
+        "healthcare": "clinic",
+        "healthcare:speciality": "urgent",
+        "name": "UR Medicine Urgent Care",
+        "operator": "University of Rochester Medical Center",
+        "operator:short": "UR Medicine",
+        "operator:type": "university",
+        "operator:wikidata": "Q7896217"
       }
     }
   ]
