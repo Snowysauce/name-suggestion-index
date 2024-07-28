@@ -218,6 +218,7 @@
           "us-ny.geojson"
         ]
       },
+      "matchNames": ["rochester regional"],
       "tags": {
         "amenity": "doctors",
         "healthcare": "doctor",
@@ -262,6 +263,7 @@
           "us-ny.geojson"
         ]
       },
+      "matchNames": ["urmc"],
       "tags": {
         "amenity": "doctors",
         "healthcare": "doctor",
