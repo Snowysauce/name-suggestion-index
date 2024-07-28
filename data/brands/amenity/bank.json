@@ -4460,6 +4460,7 @@
       "locationSet": {
         "include": ["us-ny.geojson"]
       },
+      "matchNames": ["canandaigua national bank"],
       "tags": {
         "amenity": "bank",
         "brand": "Canandaigua National Bank & Trust",
@@ -6011,6 +6012,7 @@
       "locationSet": {
         "include": ["us-ny.geojson"]
       },
+      "matchNames": ["esl fcu"],
       "tags": {
         "amenity": "bank",
         "brand": "ESL Federal Credit Union",
