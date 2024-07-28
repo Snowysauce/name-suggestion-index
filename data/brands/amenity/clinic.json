@@ -144,9 +144,6 @@
         "healthcare": "clinic",
         "healthcare:speciality": "urgent",
         "name": "Rochester Regional Health Urgent Care",
-        "operator": "Rochester Regional Health",
-        "operator:type": "private_non_profit",
-        "operator:wikidata": "Q7353978"
       }
     },
     {
@@ -262,10 +259,6 @@
         "healthcare": "clinic",
         "healthcare:speciality": "urgent",
         "name": "UR Medicine Urgent Care",
-        "operator": "University of Rochester Medical Center",
-        "operator:short": "UR Medicine",
-        "operator:type": "university",
-        "operator:wikidata": "Q7896217"
       }
     }
   ]
