@@ -510,7 +510,7 @@
       "matchNames": ["rrh Laboratories"],
       "tags": {
         "brand": "Rochester Regional Health Laboratories",
-        "brand:wikidata": "Q7353978",
+        "brand:wikidata": "Q128000494",
         "healthcare": "laboratory",
         "name": "Rochester Regional Health Laboratories",
         "operator": "Rochester Regional Health",
@@ -640,7 +640,7 @@
       },
       "tags": {
         "brand": "UR Medicine Labs",
-        "brand:wikidata": "Q7896217",
+        "brand:wikidata": "Q128000327",
         "healthcare": "laboratory",
         "name": "UR Medicine Labs",
         "operator": "University of Rochester Medical Center",
