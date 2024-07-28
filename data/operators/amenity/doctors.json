@@ -266,7 +266,7 @@
         "amenity": "doctors",
         "healthcare": "doctor",
         "operator": "University of Rochester Medical Center",
-        "operator:short": "UR Medicine"
+        "operator:short": "UR Medicine",
         "operator:wikidata": "Q7896217"
       }
     },
