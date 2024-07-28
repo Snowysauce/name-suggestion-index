@@ -2255,6 +2255,7 @@
           "us-ny.geojson"
         ]
       },
+      "matchNames": ["rochester regional"],
       "tags": {
         "amenity": "hospital",
         "healthcare": "hospital",
@@ -2767,6 +2768,7 @@
           "us-ny.geojson"
         ]
       },
+      "matchNames": ["urmc"],
       "tags": {
         "amenity": "hospital",
         "healthcare": "hospital",
