@@ -5753,6 +5753,7 @@
     },
     {
       "displayName": "DNB",
+      "id": "dnb-825b55",
       "locationSet": {
         "include": ["dk", "lu", "no", "se"]
       },
@@ -12046,8 +12047,12 @@
     },
     {
       "displayName": "Tompkins Community Bank",
+      "id": "tompkinscommunitybank-0e1628",
       "locationSet": {
-        "include": ["us-ny.geojson","us-pa.geojson"]
+        "include": [
+          "us-ny.geojson",
+          "us-pa.geojson"
+        ]
       },
       "tags": {
         "amenity": "bank",
