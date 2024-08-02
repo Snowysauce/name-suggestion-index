@@ -165,7 +165,7 @@
       "tags": {
         "amenity": "payment_terminal",
         "brand": "EZ-TAB",
-        "brand:wikidata": "Q110265731",
+        "brand:wikidata": "Q110265735",
         "name": "EZ-TAB",
         "operator": "Wisconsin Division of Motor Vehicles",
         "operator:wikidata": "Q115413096"
@@ -321,7 +321,7 @@
       "displayName": "North Dakota MV Express",
       "id": "northdakotamvexpress-9253ed",
       "locationSet": {
-        "include": ["us-ga.geojson"]
+        "include": ["us-nd.geojson"]
       },
       "tags": {
         "amenity": "payment_terminal",
