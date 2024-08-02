@@ -431,9 +431,9 @@
       "tags": {
         "amenity": "payment_terminal",
         "brand": "West Virginia DMV Now",
-        "brand:wikidata": "Q115417103",
+        "brand:wikidata": "Q115417174",
         "name": "West Virginia DMV Now",
-        "operator": "West Virginia Division Motor Vehicles",
+        "operator": "West Virginia Division of Motor Vehicles",
         "operator:wikidata": "Q115417228"
       }
     },
