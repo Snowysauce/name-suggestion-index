@@ -1192,7 +1192,7 @@
       }
     },
     {
-      "displayName": "City of Dover (Deleware)",
+      "displayName": "City of Dover (Delaware)",
       "id": "cityofdover-bce3f1",
       "locationSet": {
         "include": ["us-de.geojson"]
@@ -2589,7 +2589,7 @@
       }
     },
     {
-      "displayName": "City of Wilmington (Deleware)",
+      "displayName": "City of Wilmington (Delaware)",
       "id": "cityofwilmington-bce3f1",
       "locationSet": {
         "include": ["us-de.geojson"]
