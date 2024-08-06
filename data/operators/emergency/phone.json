@@ -701,7 +701,7 @@
     {
       "displayName": "Stadt Karlsruhe",
       "id": "stadtkarlsruhe-d9e125",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de"]},
       "tags": {
         "emergency": "phone",
         "operator": "Stadt Karlsruhe"
@@ -794,7 +794,7 @@
     {
       "displayName": "Trenes Argentinos",
       "id": "trenesargentinos-d9e125",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ar"]},
       "tags": {
         "emergency": "phone",
         "operator": "Trenes Argentinos"
@@ -911,7 +911,7 @@
     {
       "displayName": "Verkehrsbetriebe Karlsruhe GmbH",
       "id": "verkehrsbetriebekarlsruhegmbh-d9e125",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de"]},
       "tags": {
         "emergency": "phone",
         "operator": "Verkehrsbetriebe Karlsruhe GmbH"
