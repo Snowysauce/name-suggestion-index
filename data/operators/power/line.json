@@ -969,70 +969,70 @@
     {
       "displayName": "City of Ames",
       "id": "cityofames-b654b4",
-      "locationSet": {"include": ["us"]},
+      "locationSet": {"include": ["us-ia.geojson"]},
       "tags": {
         "operator": "City of Ames",
-        "operator:wikidata": "",
+        "operator:wikidata": "Q470273",
         "power": "line"
       }
     },
     {
       "displayName": "City of Concord",
       "id": "cityofconcord-116894",
-      "locationSet": {"include": ["us"]},
+      "locationSet": {"include": ["us-nc.geojson"]},
       "tags": {
         "operator": "City of Concord",
-        "operator:wikidata": "",
+        "operator:wikidata": "Q1030184",
         "power": "line"
       }
     },
     {
       "displayName": "City of Elizabeth",
       "id": "cityofelizabeth-116894",
-      "locationSet": {"include": ["us"]},
+      "locationSet": {"include": ["us-nc.geojson"]},
       "tags": {
         "operator": "City of Elizabeth",
-        "operator:wikidata": "",
+        "operator:wikidata": "Q1018467",
         "power": "line"
       }
     },
     {
       "displayName": "City of High Point",
       "id": "cityofhighpoint-116894",
-      "locationSet": {"include": ["us"]},
+      "locationSet": {"include": ["us-nc.geojson"]},
       "tags": {
         "operator": "City of High Point",
-        "operator:wikidata": "",
+        "operator:wikidata": "Q631194",
         "power": "line"
       }
     },
     {
       "displayName": "City of Lakeland",
       "id": "cityoflakeland-b654b4",
-      "locationSet": {"include": ["us"]},
+      "locationSet": {"include": ["us-fl.geojson"]},
       "tags": {
         "operator": "City of Lakeland",
-        "operator:wikidata": "",
+        "operator:wikidata": "Q639452",
         "power": "line"
       }
     },
     {
       "displayName": "City of Lexington",
       "id": "cityoflexington-116894",
-      "locationSet": {"include": ["us"]},
+      "locationSet": {"include": ["us-nc.geojson"]},
       "tags": {
         "operator": "City of Lexington",
-        "operator:wikidata": "",
+        "operator:wikidata": "Q181370",
         "power": "line"
       }
     },
     {
       "displayName": "City of Natchitoches",
       "id": "cityofnatchitoches-b654b4",
-      "locationSet": {"include": ["us"]},
+      "locationSet": {"include": ["us-la.geojson"]},
       "tags": {
         "operator": "City of Natchitoches",
-        "operator:wikidata": "",
+        "operator:wikidata": "Q2278195",
         "power": "line"
       }
     },
@@ -1042,7 +1042,7 @@
       "locationSet": {"include": ["us-fl.geojson"]},
       "tags": {
         "operator": "City of Tallahassee",
-        "operator:wikidata": "",
+        "operator:wikidata": "Q37043",
         "power": "line"
       }
     },
