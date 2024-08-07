@@ -724,6 +724,9 @@
       "displayName": "Miami Dade College",
       "id": "miamidadecollege-48c608",
       "locationSet": {"include": ["us-fl.geojson"]},
+      "matchNames": [
+        "miami-dade college"
+      ],
       "tags": {
         "amenity": "toilets",
         "operator": "Miami Dade College",
