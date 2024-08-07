@@ -2778,13 +2778,14 @@
         "operator": "Verbund Hydro Power GmbH",
         "power": "plant"
       }
-    },
+    },    
     {
-      "displayName": "Virginia Electric & Power Co",
+      "displayName": "Virginia Electric & Power Company",
       "id": "virginiaelectricandpowerco-e6c8aa",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-va.geojson","us-nc.geojson"]},
       "tags": {
-        "operator": "Virginia Electric & Power Co",
+        "operator": "Virginia Electric & Power Company",
+        "operator:wikidata": "Q117834539",
         "power": "plant"
       }
     },
