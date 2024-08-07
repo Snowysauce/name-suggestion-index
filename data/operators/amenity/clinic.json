@@ -118,7 +118,7 @@
     {
       "displayName": "Aspirus",
       "id": "aspirus-0ca787",
-      "locationSet": {"include": ["us"]},
+      "locationSet": {"include": ["us-wi.geojson","us-mi.geojson"]},
       "tags": {
         "amenity": "clinic",
         "healthcare": "clinic",
