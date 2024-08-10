@@ -1766,6 +1766,19 @@
       }
     },
     {
+      "displayName": "Southern Tier Library System",
+      "locationSet": {
+        "include": ["us-ny.geojson"]
+      },
+      "tags": {
+        "amenity": "library",
+        "operator": "Southern Tier Library System",
+        "operator:short": "STLS",
+        "operator:type": "public",
+        "operator:wikidata": "Q128798470"
+      }
+    },
+    {
       "displayName": "Stichting Bibliotheek Oosterschelde",
       "id": "stichtingbibliotheekoosterschelde-08efeb",
       "locationSet": {"include": ["nl"]},
