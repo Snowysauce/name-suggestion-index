@@ -383,6 +383,19 @@
       }
     },
     {
+      "displayName": "Chautauqua-Cattaraugus Library System",
+      "locationSet": {
+        "include": ["us-ny.geojson"]
+      },
+      "tags": {
+        "amenity": "library",
+        "operator": "Chautauqua-Cattaraugus Library System",
+        "operator:short": "CCLS",
+        "operator:type": "public",
+        "operator:wikidata": "Q128797809"
+      }
+    },
+    {
       "displayName": "Chicago Public Library",
       "id": "chicagopubliclibrary-f51cb2",
       "locationSet": {
