@@ -706,6 +706,19 @@
       }
     },
     {
+      "displayName": "Finger Lakes Library System",
+      "locationSet": {
+        "include": ["us-ny.geojson"]
+      },
+      "tags": {
+        "amenity": "library",
+        "operator": "Finger Lakes Library System",
+        "operator:short": "FLLS",
+        "operator:type": "public",
+        "operator:wikidata": "Q108565304"
+      }
+    },
+    {
       "displayName": "Fővárosi Szabó Ervin Könyvtár",
       "id": "fovarosiszaboervinkonyvtar-231351",
       "locationSet": {"include": ["hu"]},
