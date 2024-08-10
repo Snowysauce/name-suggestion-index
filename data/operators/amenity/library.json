@@ -1408,6 +1408,19 @@
       }
     },
     {
+      "displayName": "North Country Library System",
+      "locationSet": {
+        "include": ["us-ny.geojson"]
+      },
+      "tags": {
+        "amenity": "library",
+        "operator": "North Country Library System",
+        "operator:short": "NCLS",
+        "operator:type": "public",
+        "operator:wikidata": "Q128798933"
+      }
+    },
+    {
       "displayName": "North Northamptonshire",
       "id": "northnorthamptonshire-f83674",
       "locationSet": {
