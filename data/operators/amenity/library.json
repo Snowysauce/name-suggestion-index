@@ -719,6 +719,19 @@
       }
     },
     {
+      "displayName": "Four County Library System",
+      "locationSet": {
+        "include": ["us-ny.geojson"]
+      },
+      "tags": {
+        "amenity": "library",
+        "operator": "Four County Library System",
+        "operator:short": "4CLS",
+        "operator:type": "public",
+        "operator:wikidata": "Q30258025"
+      }
+    },
+    {
       "displayName": "Fővárosi Szabó Ervin Könyvtár",
       "id": "fovarosiszaboervinkonyvtar-231351",
       "locationSet": {"include": ["hu"]},
