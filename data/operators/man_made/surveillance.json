@@ -17,7 +17,11 @@
         "^Selgros\\?$",
         "^Sparkasse Chemnitz\\?$",
         "^Thrainer\\?$",
-        "^Vita-Center\\?$"]
+        "^Vita-Center\\?$",
+        "^Embassy$",
+        "^Govt$",
+        "^gym10$"
+      ]
     }
   },
   "items": [
@@ -1152,7 +1156,7 @@
     {
       "displayName": "e-TOLL",
       "id": "etoll-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["pl"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "e-TOLL",
@@ -1172,7 +1176,7 @@
     {
       "displayName": "e.on Kraftwerke GmbH",
       "id": "eonkraftwerkegmbh-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "e.on Kraftwerke GmbH",
@@ -1192,20 +1196,10 @@
     {
       "displayName": "Elisengalerie",
       "id": "elisengalerie-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Elisengalerie",
-        "operator:wikidata": ""
-      }
-    },
-    {
-      "displayName": "Embassy",
-      "id": "embassy-9c1a6c",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "man_made": "surveillance",
-        "operator": "Embassy",
         "operator:wikidata": ""
       }
     },
@@ -1222,7 +1216,7 @@
     {
       "displayName": "EMS-CHEMIE",
       "id": "emschemie-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ch"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "EMS-CHEMIE",
@@ -1232,7 +1226,7 @@
     {
       "displayName": "EnBW Kernkraft GmbH",
       "id": "enbwkernkraftgmbh-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "EnBW Kernkraft GmbH",
@@ -1284,7 +1278,7 @@
     {
       "displayName": "EVN",
       "id": "evn-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["at"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "EVN",
@@ -1294,7 +1288,7 @@
     {
       "displayName": "Federal Office for the Protection of the Constitution and Counterterrorism",
       "id": "federalofficefortheprotectionoftheconstitutionandcounterterrorism-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["at"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Federal Office for the Protection of the Constitution and Counterterrorism",
@@ -1304,7 +1298,7 @@
     {
       "displayName": "Federale Politie",
       "id": "federalepolitie-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["be"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Federale Politie",
@@ -1314,7 +1308,7 @@
     {
       "displayName": "Flock Safety",
       "id": "flocksafety-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-ok.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Flock Safety",
@@ -1324,7 +1318,7 @@
     {
       "displayName": "Flughafen Wien AG",
       "id": "flughafenwienag-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["at"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Flughafen Wien AG",
@@ -1334,7 +1328,7 @@
     {
       "displayName": "Fondazione Teatro Carlo Felice",
       "id": "fondazioneteatrocarlofelice-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["it"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Fondazione Teatro Carlo Felice",
@@ -1344,7 +1338,7 @@
     {
       "displayName": "Foresight",
       "id": "foresight-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["gb"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Foresight",
@@ -1364,7 +1358,7 @@
     {
       "displayName": "GDDKiA",
       "id": "gddkia-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["pl"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "GDDKiA",
@@ -1374,7 +1368,7 @@
     {
       "displayName": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
       "id": "generalnadyrekcjadrogkrajowychiautostrad-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["pl"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
@@ -1382,32 +1376,12 @@
       }
     },
     {
-      "displayName": "Govt",
-      "id": "govt-9c1a6c",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "man_made": "surveillance",
-        "operator": "Govt",
-        "operator:wikidata": ""
-      }
-    },
-    {
       "displayName": "Grand Lyon",
       "id": "grandlyon-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Grand Lyon",
-        "operator:wikidata": ""
-      }
-    },
-    {
-      "displayName": "gym10",
-      "id": "gym10-9c1a6c",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "man_made": "surveillance",
-        "operator": "gym10",
         "operator:wikidata": ""
       }
     },
@@ -1424,7 +1398,7 @@
     {
       "displayName": "Hackney Council",
       "id": "hackneycouncil-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["gb"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Hackney Council",
@@ -1434,7 +1408,7 @@
     {
       "displayName": "Hamburger Hochbahn AG",
       "id": "hamburgerhochbahnag-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Hamburger Hochbahn AG",
@@ -1444,7 +1418,7 @@
     {
       "displayName": "Hebe",
       "id": "hebe-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["pl"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Hebe",
@@ -1454,7 +1428,7 @@
     {
       "displayName": "Hennessy",
       "id": "hennessy-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx","ie"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Hennessy",
@@ -1464,7 +1438,7 @@
     {
       "displayName": "Hive Energy",
       "id": "hiveenergy-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["es","gb"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Hive Energy",
@@ -1474,7 +1448,7 @@
     {
       "displayName": "Hogeschool van Amsterdam",
       "id": "hogeschoolvanamsterdam-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["nl"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Hogeschool van Amsterdam",
@@ -1494,7 +1468,7 @@
     {
       "displayName": "HVV",
       "id": "hvv-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "HVV",
