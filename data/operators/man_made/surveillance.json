@@ -1160,13 +1160,14 @@
       }
     },
     {
-      "displayName": "E-On",
+      "displayName": "E.ON",
       "id": "eon-9c1a6c",
       "locationSet": {"include": ["001"]},
+      "matchNames": ["E-On"],
       "tags": {
         "man_made": "surveillance",
-        "operator": "E-On",
-        "operator:wikidata": ""
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223"
       }
     },
     {
@@ -1176,7 +1177,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "e-TOLL",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q106957071"
       }
     },
     {
@@ -1186,7 +1187,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "E. Leclerc",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q1273376"
       }
     },
     {
@@ -1195,8 +1196,7 @@
       "locationSet": {"include": ["de"]},
       "tags": {
         "man_made": "surveillance",
-        "operator": "e.on Kraftwerke GmbH",
-        "operator:wikidata": ""
+        "operator": "e.on Kraftwerke GmbH"
       }
     },
     {
@@ -1206,7 +1206,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "EDF",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q274591"
       }
     },
     {
@@ -1215,8 +1215,7 @@
       "locationSet": {"include": ["de"]},
       "tags": {
         "man_made": "surveillance",
-        "operator": "Elisengalerie",
-        "operator:wikidata": ""
+        "operator": "Elisengalerie"
       }
     },
     {
@@ -1225,8 +1224,7 @@
       "locationSet": {"include": ["001"]},
       "tags": {
         "man_made": "surveillance",
-        "operator": "Embassy of Poland",
-        "operator:wikidata": ""
+        "operator": "Embassy of Poland"
       }
     },
     {
@@ -1236,7 +1234,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "EMS-CHEMIE",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q1339621"
       }
     },
     {
@@ -1246,7 +1244,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "EnBW Kernkraft GmbH",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q113947713"
       }
     },
     {
@@ -1268,7 +1266,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Eni",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q565594"
       }
     },
     {
@@ -1278,7 +1276,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Erste Bank",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q696867"
       }
     },
     {
@@ -1288,7 +1286,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Esso",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q867662"
       }
     },
     {
@@ -1298,7 +1296,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "EVN",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q872140"
       }
     },
     {
@@ -1308,7 +1306,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Federal Office for the Protection of the Constitution and Counterterrorism",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q443302"
       }
     },
     {
@@ -1318,17 +1316,17 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Federale Politie",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q2776042"
       }
     },
     {
       "displayName": "Flock Safety",
       "id": "flocksafety-9c1a6c",
-      "locationSet": {"include": ["us-ok.geojson"]},
+      "locationSet": {"include": ["us"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Flock Safety",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q108485435"
       }
     },
     {
@@ -1338,7 +1336,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Flughafen Wien AG",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q1433222"
       }
     },
     {
@@ -1348,7 +1346,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Fondazione Teatro Carlo Felice",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q73001544"
       }
     },
     {
@@ -1358,7 +1356,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Foresight",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q69525805"
       }
     },
     {
@@ -1367,8 +1365,7 @@
       "locationSet": {"include": ["001"]},
       "tags": {
         "man_made": "surveillance",
-        "operator": "foto-webcam.eu",
-        "operator:wikidata": ""
+        "operator": "foto-webcam.eu"
       }
     },
     {
@@ -1378,7 +1375,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "GDDKiA",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q1163349"
       }
     },
     {
@@ -1388,7 +1385,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q1163349"
       }
     },
     {
@@ -1398,7 +1395,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Grand Lyon",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q16665897"
       }
     },
     {
@@ -1408,7 +1405,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "H&M",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q188326"
       }
     },
     {
@@ -1418,7 +1415,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Hackney Council",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q5637369"
       }
     },
     {
@@ -1428,7 +1425,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Hamburger Hochbahn AG",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q6442"
       }
     },
     {
@@ -1438,7 +1435,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Hebe",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q110952328"
       }
     },
     {
@@ -1448,7 +1445,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Hennessy",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q1229287"
       }
     },
     {
@@ -1457,8 +1454,7 @@
       "locationSet": {"include": ["es","gb"]},
       "tags": {
         "man_made": "surveillance",
-        "operator": "Hive Energy",
-        "operator:wikidata": ""
+        "operator": "Hive Energy"
       }
     },
     {
@@ -1468,7 +1464,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Hogeschool van Amsterdam",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q945017"
       }
     },
     {
