@@ -2,8 +2,20 @@
   "properties": {
     "path": "operators/man_made/surveillance",
     "exclude": {
-      "generic": ["^surveillance$"],
-      "named": ["^3$","^4$","^Apartment$","^civilians$","^CVAG\\?$",
+      "generic": [
+        "^surveillance$",
+        "^Embassy$",
+        "^Govt$",
+        "^mairie$",
+        "^Městská Policie$",
+        "^Municipalité$"
+      ],
+      "named": [
+        "^3$",
+        "^4$",
+        "^Apartment$",
+        "^civilians$",
+        "^CVAG\\?$",
         "^Decathlon\\?$",
         "^Deutsche Bundesbank\\?$",
         "^dm\\?$",
@@ -18,8 +30,6 @@
         "^Sparkasse Chemnitz\\?$",
         "^Thrainer\\?$",
         "^Vita-Center\\?$",
-        "^Embassy$",
-        "^Govt$",
         "^gym10$"
       ]
     }
@@ -1478,7 +1488,7 @@
     {
       "displayName": "i-Trafik MBJB",
       "id": "itrafikmbjb-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["my"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "i-Trafik MBJB",
@@ -1488,7 +1498,7 @@
     {
       "displayName": "ICC",
       "id": "icc-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "ICC",
@@ -1498,7 +1508,7 @@
     {
       "displayName": "Illinois State Police",
       "id": "illinoisstatepolice-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-il.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Illinois State Police",
@@ -1508,7 +1518,7 @@
     {
       "displayName": "InfoCirculation.fr",
       "id": "infocirculationfr-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "InfoCirculation.fr",
@@ -1518,7 +1528,7 @@
     {
       "displayName": "InfoRoute05.fr",
       "id": "inforoute05fr-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx","it"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "InfoRoute05.fr",
@@ -1538,7 +1548,7 @@
     {
       "displayName": "Iowa Department of Transportation",
       "id": "iowadepartmentoftransportation-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-ia.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Iowa Department of Transportation",
@@ -1558,7 +1568,7 @@
     {
       "displayName": "Johnson & Wales",
       "id": "johnsonandwales-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-ri.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Johnson & Wales",
@@ -1578,7 +1588,7 @@
     {
       "displayName": "Keolis Dijon",
       "id": "keolisdijon-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Keolis Dijon",
@@ -1588,7 +1598,7 @@
     {
       "displayName": "Keolis Rennes",
       "id": "keolisrennes-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Keolis Rennes",
@@ -1608,7 +1618,7 @@
     {
       "displayName": "Konzum.cz",
       "id": "konzumcz-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["cz"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Konzum.cz",
@@ -1618,7 +1628,7 @@
     {
       "displayName": "Korps landelijke politiediensten",
       "id": "korpslandelijkepolitiediensten-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["nl"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Korps landelijke politiediensten",
@@ -1628,7 +1638,7 @@
     {
       "displayName": "KTS",
       "id": "kts-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["at"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "KTS",
@@ -1642,13 +1652,13 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "La Poste",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q373724"
       }
     },
     {
       "displayName": "Land Oberösterreich, govt",
       "id": "landoberosterreichgovt-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["at"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Land Oberösterreich, govt",
@@ -1658,7 +1668,7 @@
     {
       "displayName": "Land Tirol, govt",
       "id": "landtirolgovt-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["at"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Land Tirol, govt",
@@ -1668,7 +1678,7 @@
     {
       "displayName": "Land Transport Authority",
       "id": "landtransportauthority-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["sg"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Land Transport Authority",
@@ -1678,7 +1688,7 @@
     {
       "displayName": "Lawrence Police Department",
       "id": "lawrencepolicedepartment-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-ks.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Lawrence Police Department",
@@ -1688,7 +1698,7 @@
     {
       "displayName": "Le Grand Lyon",
       "id": "legrandlyon-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Le Grand Lyon",
@@ -1712,13 +1722,13 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Lightsource BP",
-        "operator:wikidata": ""
+        "operator:wikidata": "Q18589166"
       }
     },
     {
       "displayName": "Löffler",
       "id": "loffler-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["at"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Löffler",
@@ -1728,7 +1738,7 @@
     {
       "displayName": "London Borough of Newham",
       "id": "londonboroughofnewham-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["gb"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "London Borough of Newham",
@@ -1738,7 +1748,7 @@
     {
       "displayName": "Lyceum of the Philippines University, Inc.",
       "id": "lyceumofthephilippinesuniversityinc-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ph"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Lyceum of the Philippines University, Inc.",
@@ -1748,7 +1758,7 @@
     {
       "displayName": "Lyttelton Port Company",
       "id": "lytteltonportcompany-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["nz"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Lyttelton Port Company",
@@ -1756,19 +1766,9 @@
       }
     },
     {
-      "displayName": "mairie",
-      "id": "mairie-9c1a6c",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "man_made": "surveillance",
-        "operator": "mairie",
-        "operator:wikidata": ""
-      }
-    },
-    {
       "displayName": "Mairie d'Orange",
       "id": "mairiedorange-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mairie d'Orange",
@@ -1778,7 +1778,7 @@
     {
       "displayName": "Mairie de Bordeaux",
       "id": "mairiedebordeaux-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mairie de Bordeaux",
@@ -1788,7 +1788,7 @@
     {
       "displayName": "Mairie de Calais",
       "id": "mairiedecalais-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mairie de Calais",
@@ -1798,7 +1798,7 @@
     {
       "displayName": "Mairie de Carquefou",
       "id": "mairiedecarquefou-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mairie de Carquefou",
@@ -1808,7 +1808,7 @@
     {
       "displayName": "Mairie de Dijon",
       "id": "mairiededijon-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mairie de Dijon",
@@ -1818,7 +1818,7 @@
     {
       "displayName": "Mairie de Jonquières",
       "id": "mairiedejonquieres-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mairie de Jonquières",
@@ -1828,7 +1828,7 @@
     {
       "displayName": "mairie de Montigny le bretonneux😃",
       "id": "b52f3d-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "mairie de Montigny le bretonneux😃",
@@ -1838,7 +1838,7 @@
     {
       "displayName": "Mairie de Montrouge",
       "id": "mairiedemontrouge-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mairie de Montrouge",
@@ -1848,7 +1848,7 @@
     {
       "displayName": "Mairie de Saint Etienne de Montluc",
       "id": "mairiedesaintetiennedemontluc-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mairie de Saint Etienne de Montluc",
@@ -1858,7 +1858,7 @@
     {
       "displayName": "Mairie de Toulouse",
       "id": "mairiedetoulouse-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mairie de Toulouse",
@@ -1868,7 +1868,7 @@
     {
       "displayName": "Mairie de Troyes",
       "id": "mairiedetroyes-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mairie de Troyes",
@@ -1878,7 +1878,7 @@
     {
       "displayName": "Mairie du Bordeaux",
       "id": "mairiedubordeaux-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mairie du Bordeaux",
@@ -1888,7 +1888,7 @@
     {
       "displayName": "Manila Toll Expressway Systems",
       "id": "manilatollexpresswaysystems-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ph"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Manila Toll Expressway Systems",
@@ -1896,19 +1896,19 @@
       }
     },
     {
-      "displayName": "Marie de Tours",
+      "displayName": "Mairie de Tours",
       "id": "mariedetours-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
-        "operator": "Marie de Tours",
+        "operator": "Mairie de Tours",
         "operator:wikidata": ""
       }
     },
     {
       "displayName": "Marine Hotel",
       "id": "marinehotel-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["pl"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Marine Hotel",
@@ -1918,7 +1918,7 @@
     {
       "displayName": "Marquette University Department of Public Safety",
       "id": "marquetteuniversitydepartmentofpublicsafety-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-wi.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Marquette University Department of Public Safety",
@@ -1928,7 +1928,7 @@
     {
       "displayName": "master DIESEL",
       "id": "masterdiesel-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["at"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "master DIESEL",
@@ -1938,7 +1938,7 @@
     {
       "displayName": "Max Rubner-Institut",
       "id": "maxrubnerinstitut-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Max Rubner-Institut",
@@ -1986,7 +1986,7 @@
     {
       "displayName": "MDCR",
       "id": "mdcr-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["cz"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "MDCR",
@@ -1996,7 +1996,7 @@
     {
       "displayName": "Mestká policia Ružomberok",
       "id": "mestkapoliciaruzomberok-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["si"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mestká policia Ružomberok",
@@ -2006,7 +2006,7 @@
     {
       "displayName": "Město Olomouc",
       "id": "mestoolomouc-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["cz"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Město Olomouc",
@@ -2016,7 +2016,7 @@
     {
       "displayName": "Město Plzeň",
       "id": "mestoplzen-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["cz"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Město Plzeň",
@@ -2026,7 +2026,7 @@
     {
       "displayName": "mesto Ružomberok",
       "id": "mestoruzomberok-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["si"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "mesto Ružomberok",
@@ -2034,19 +2034,9 @@
       }
     },
     {
-      "displayName": "Městská Policie",
-      "id": "mestskapolicie-9c1a6c",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "man_made": "surveillance",
-        "operator": "Městská Policie",
-        "operator:wikidata": ""
-      }
-    },
-    {
       "displayName": "Městská policie Brno",
       "id": "mestskapoliciebrno-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["cz"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Městská policie Brno",
@@ -2056,7 +2046,7 @@
     {
       "displayName": "MeteoSchweiz",
       "id": "meteoschweiz-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ch"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "MeteoSchweiz",
@@ -2066,7 +2056,7 @@
     {
       "displayName": "Metropolitan Manila Development Authority",
       "id": "metropolitanmaniladevelopmentauthority-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ph"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Metropolitan Manila Development Authority",
@@ -2076,7 +2066,7 @@
     {
       "displayName": "Micro Center",
       "id": "microcenter-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Micro Center",
@@ -2086,7 +2076,7 @@
     {
       "displayName": "Ministry of Defence",
       "id": "ministryofdefence-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["gb"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Ministry of Defence",
@@ -2094,19 +2084,9 @@
       }
     },
     {
-      "displayName": "Ministry of Transportation",
-      "id": "ministryoftransportation-9c1a6c",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "man_made": "surveillance",
-        "operator": "Ministry of Transportation",
-        "operator:wikidata": ""
-      }
-    },
-    {
       "displayName": "Ministry of Transportation of Ontario",
       "id": "ministryoftransportationofontario-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ca-on.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Ministry of Transportation of Ontario",
@@ -2116,7 +2096,7 @@
     {
       "displayName": "MIT",
       "id": "mit-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-ma.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "MIT",
@@ -2126,7 +2106,7 @@
     {
       "displayName": "MMCB",
       "id": "mmcb-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["cz"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "MMCB",
@@ -2136,7 +2116,7 @@
     {
       "displayName": "Mobiris",
       "id": "mobiris-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["be"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mobiris",
@@ -2146,7 +2126,7 @@
     {
       "displayName": "MoDOT",
       "id": "modot-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-mo.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "MoDOT",
@@ -2156,7 +2136,7 @@
     {
       "displayName": "Morrisons",
       "id": "morrisons-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["gb"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Morrisons",
@@ -2166,7 +2146,7 @@
     {
       "displayName": "MOSIR",
       "id": "mosir-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["pl"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "MOSIR",
@@ -2176,7 +2156,7 @@
     {
       "displayName": "Mount Lebanon Police Department",
       "id": "mountlebanonpolicedepartment-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-pa.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Mount Lebanon Police Department",
@@ -2186,7 +2166,7 @@
     {
       "displayName": "MP Přerov",
       "id": "mpprerov-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["cz"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "MP Přerov",
@@ -2196,7 +2176,7 @@
     {
       "displayName": "MPCALA Holdings, Inc.",
       "id": "mpcalaholdingsinc-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ph"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "MPCALA Holdings, Inc.",
@@ -2206,7 +2186,7 @@
     {
       "displayName": "Municipalidad de Funes",
       "id": "municipalidaddefunes-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ar"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Municipalidad de Funes",
@@ -2216,7 +2196,7 @@
     {
       "displayName": "Municipalidad de Rosario",
       "id": "municipalidadderosario-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ar"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Municipalidad de Rosario",
@@ -2226,7 +2206,7 @@
     {
       "displayName": "Municipalidad de San Fernando",
       "id": "municipalidaddesanfernando-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ar"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Municipalidad de San Fernando",
@@ -2236,7 +2216,7 @@
     {
       "displayName": "Municipalidad de Tandil",
       "id": "municipalidaddetandil-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ar"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Municipalidad de Tandil",
@@ -2244,19 +2224,9 @@
       }
     },
     {
-      "displayName": "Municipalité",
-      "id": "municipalite-9c1a6c",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "man_made": "surveillance",
-        "operator": "Municipalité",
-        "operator:wikidata": ""
-      }
-    },
-    {
       "displayName": "Nantes Métropole",
       "id": "nantesmetropole-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Nantes Métropole",
@@ -2266,7 +2236,7 @@
     {
       "displayName": "Nanyang Polytechnic",
       "id": "nanyangpolytechnic-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["sg"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Nanyang Polytechnic",
@@ -2291,7 +2261,7 @@
     {
       "displayName": "National Security Agency",
       "id": "nationalsecurityagency-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "National Security Agency",
@@ -2301,7 +2271,7 @@
     {
       "displayName": "NC Fontána",
       "id": "ncfontana-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["cz"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "NC Fontána",
@@ -2311,7 +2281,7 @@
     {
       "displayName": "Nemzeti Útdíjfizetési Szolgáltató Zrt.",
       "id": "nemzetiutdijfizetesiszolgaltatozrt-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["hu"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Nemzeti Útdíjfizetési Szolgáltató Zrt.",
@@ -2321,7 +2291,7 @@
     {
       "displayName": "New York State Department of Transportation",
       "id": "newyorkstatedepartmentoftransportation-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-ny.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "New York State Department of Transportation",
@@ -2331,7 +2301,7 @@
     {
       "displayName": "New York State Thruway Authority",
       "id": "newyorkstatethruwayauthority-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-ny.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "New York State Thruway Authority",
@@ -2341,7 +2311,7 @@
     {
       "displayName": "NHDOT",
       "id": "nhdot-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us-nh.geojson"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "NHDOT",
@@ -2351,7 +2321,7 @@
     {
       "displayName": "NMBS/SNCB",
       "id": "nmbssncb-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["be"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "NMBS/SNCB",
@@ -2361,7 +2331,7 @@
     {
       "displayName": "Novomatic AG",
       "id": "novomaticag-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["at"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Novomatic AG",
@@ -2371,7 +2341,7 @@
     {
       "displayName": "ÖBB",
       "id": "obb-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["at"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "ÖBB",
@@ -2381,7 +2351,7 @@
     {
       "displayName": "OC Forum",
       "id": "ocforum-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["cz"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "OC Forum",
@@ -2391,7 +2361,7 @@
     {
       "displayName": "OC Galerie Teplice",
       "id": "ocgalerieteplice-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["cz"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "OC Galerie Teplice",
@@ -2401,7 +2371,7 @@
     {
       "displayName": "Octopus Investments",
       "id": "octopusinvestments-9c1a6c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["gb"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "Octopus Investments",
