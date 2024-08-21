@@ -1963,6 +1963,18 @@
       }
     },
     {
+      "displayName": "Celine",
+      "id": "celine-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Celine",
+        "brand:wikidata": "Q948531",
+        "clothes": "luxury",
+        "name": "Celine",
+        "shop": "clothes"
+      }
+    },
+    {
       "displayName": "Celio",
       "id": "celio-3937bd",
       "locationSet": {"include": ["001"]},
